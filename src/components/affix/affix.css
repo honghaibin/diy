@@ -1,0 +1,9 @@
+#diy-affix .scrollable-container{
+	height: 200px;
+	overflow: auto;
+	border: 1px solid #ddd;
+}
+#diy-affix .background{
+	height: 1000px;
+	padding-top: 500px;
+}

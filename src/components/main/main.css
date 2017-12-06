@@ -1,0 +1,31 @@
+#diy-main .card-title{
+	line-height: 1em;
+	font-size: 12px;
+	margin: 18px 0 10px 0;
+	color: #fff;
+}
+#diy-main .card-subtitle{
+	line-height: 1em;
+	font-weight: bold;
+	font-size: 20px;
+	color: #fff;
+}
+#diy-main .ant-card-head{
+	height:80px;
+}
+#diy-main .diy-card-success .ant-card-head{
+	background-color: #00a854;
+}
+#diy-main .diy-card-info .ant-card-head{
+	background-color: #108ee9;
+}
+#diy-main .diy-card-warning .ant-card-head{
+	background-color: #ffbf00;
+}
+#diy-main .diy-card-danger .ant-card-head{
+	background-color: #f04134;
+}
+#diy-main .grid-style{
+	width:100%;
+	min-height: 30px;
+}
